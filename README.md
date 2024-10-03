@@ -9,8 +9,14 @@
 # Windows 网址发布器
 &emsp;&emsp;Windows 网址发布器使用 .net 开发，采用了自研的最先进的防封锁、防劫持技术，单文件、绿色免安装、下载即用（部分安全软件可能会误报病毒）。目前只支持 Windows 作业系统。发布器会自动检查更新，若有新版本提示请及时下载。
 
+&emsp;&emsp;[下载v2.2 版](https://github.com/fulione/www/releases/tag/v2.2-Windows)
+
+
+
 # Android 客户端
 &emsp;&emsp;Android APP 内支持播放在线视频、浏览网站等，实现了一款 APP 囊括天下福利。
+
+&emsp;&emsp;[下载v1.2.12 版](https://github.com/fulione/www/releases/download/v1.2.12-Android/fulione.v1.2.12.apk)
 
 # IOS 轻量版客户端
 &emsp;&emsp;将在手机桌面创建一个访问入口，无需任何权限，不占用手机空间。安装后桌面名字将显示为“第一学术”，你可以随时长按桌面图标来删除。
